@@ -46,6 +46,6 @@ While (pilihan == “ya”); untuk pengguna dapat memilih ingin melanjutkan prog
 
 | File |      link     |
 | ------ | ------ |
-| Laporan | tempel link disini |
+| Laporan | https://drive.google.com/file/d/1ZARuNlEJd_YplDGrUul4wuvxoTrFHako/view?usp=drivesdk |
 | Program running | https://replit.com/@SESIULFAH1/TUBES-KELOMPOK-1-PKS-II-TPB-7  |
 | Video | https://youtu.be/KresWnrJpQs  |
